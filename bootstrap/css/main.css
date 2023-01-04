@@ -1,0 +1,35 @@
+col-lg-2 //*class used for larger devices like laptops*//
+col-md-2 //*class used for larger devices like tablets*//
+col-sm-2 //*class used for larger devices like mobile phones*//
+<!------------------------------------------>
+
+.nav { background: #f97300;}
+
+.nav-link , .navbar-brand {
+    color: #f4f44f;
+    cursor: pointer;
+}
+
+.nav-link{margin-right: 1em ! important;}
+
+.nav-link:hover{background: #f4f4f4; 
+        color: #f97300;}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.navbar-toggler { background: #fff ! important;}
+
+.bg-dark{ background-color: #007bff! important;}
+.bg-primary{ background-color: #007bff! important}
+
+
+/*----------headre style-------*/
+
+.header{
+    background-image: url('E:\works\webs\NewTech\b\bootstrap-4.0.0-dist\img/apple.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
