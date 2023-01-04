@@ -33,7 +33,7 @@
 
     <div class="col-4 bg-dark rounded  ">
        
-        <form action="test.php" method="post" class="form-group ">
+        <form action="mailer.php" method="post" class="form-group ">
             
         <div class="form-control">
             <input class="form-control" type="text" name="name" placeholder="Username">
